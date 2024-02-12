@@ -10,5 +10,5 @@ The excel sheet will be updating. The geomap using folium only includes the firs
   - Prices: a hypothesized price sheet 
   - Metro: 
 
-**.Ipynb File**
+**.ipynb File**
 This shows the python code used to create the map. 
