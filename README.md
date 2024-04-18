@@ -13,3 +13,5 @@ The excel sheet will be updating. The geomap using folium only includes the firs
 
 **.ipynb File:**
 This shows the python code used to create the map. 
+- Includes new columns added such as latitude, and longitude. If the Name of Place had errors with the geolocator, a nearby latitude and longitude were added
+  in respect to the Nearby alternative column created to resolve this issue. This column is created via manual input. 
