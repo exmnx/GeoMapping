@@ -3,7 +3,8 @@ This was created for fun to help with travel plans I had. The map graphs all loc
 
 **Excel Sheet:**
 The excel sheet will be updating. The geomap using folium only includes the first sheet of the excel workbook. The sheets are as listed below:
-  - Trip Overview: Main data that includes region, place name, GPS location, etc. 
+  - Trip Overview: Main data that includes region, prefectures, place name, GPS location, time opened, time closed, Closed on what days, price, currency, price in
+                   usd, price in yen, included in the osaka amazing pass, type of place, located in, ward, time spend, total cost, hours of operation notes and notes
   - Location Sheet: Shows a pivot table based on the trip overview data. Groups name of place based on columns: Wards and Located in
   - Trip Itinerary: The trip itinerary showing how many nights and days staying
   - Habitation: Lists Possible places to stay  
