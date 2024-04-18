@@ -8,7 +8,7 @@ The excel sheet will be updating. The geomap using folium only includes the firs
   - Trip Itinerary: The trip itinerary showing how many nights and days staying
   - Habitation: Lists Possible places to stay  
   - Prices: a hypothesized price sheet 
-  - Metro: 
+  - Other: Items needed while there
 
 **.ipynb File:**
 This shows the python code used to create the map. 
